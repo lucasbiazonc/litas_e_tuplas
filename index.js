@@ -1,5 +1,5 @@
 
-console.log (LISTAS)
+console.log ('LISTAS')
 // 1 atividade do slide
 console.log('Atividade 1')
 let frutas = ['Maçã','Pera','Banana','Laranja','Abacate'];
@@ -27,3 +27,6 @@ console.log()
 console.log()
 //att 3
 console.log('Atividade 3')
+const at3 = [23, 58, 95, 75, 12, 1, 0, 4, 9, 34];
+const maior = Math.max(...at3);
+console.log(maior);
