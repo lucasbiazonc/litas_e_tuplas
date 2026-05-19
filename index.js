@@ -1,12 +1,11 @@
 
 console.log ('LISTAS')
+console.log()
 // 1 atividade do slide
 console.log('Listas 1')
 let frutas = ['Maçã','Pera','Banana','Laranja','Abacate'];
 console.log (frutas[0], frutas[1], frutas[2], frutas[3], frutas[4]);
-console.log ();
 console.log (frutas[0]);
-console.log ();
 console.log(frutas[4]);
 
 //espaçamento
